@@ -84,7 +84,7 @@ ul {
     font-size: 2em;
     border-style: solid none;
     border-color: #d0d0d0;
-    border-width: small;
+    border-width: 2px;
 }
 
 li {
@@ -133,7 +133,7 @@ article {
     padding-bottom: 10px;
     border-style: none none solid none;
     border-color: #d0d0d0;
-    border-width: small;
+    border-width: 2px;
     width: 350px;
 
 }
@@ -166,7 +166,7 @@ article {
         font-size: 2em;
         border-style: solid none;
         border-color: #d0d0d0;
-        border-width: small;
+        border-width: 2px;
 
     }
 
@@ -184,7 +184,7 @@ article {
         width: 500px;
         border-style: none none solid solid;
         border-color: #d0d0d0;
-        border-width: small;
+        border-width: 2px;
         padding-left: 20px;
     }
 
